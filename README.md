@@ -14,7 +14,7 @@ Me especializo en construir dashboards, optimizar procesos con Python y mantener
 
 ## ⚙️ Lo que hago actualmente
 
-- Me conecto automáticamente a servidores FTP con Python + FileZilla
+- Me conecto automáticamente a servidores FTP con Python + FileZilla                                                                     <img src="Data extraction-rafiki.png" width="400"/>
 - Descargo archivos Excel y los cargo directamente en **SQL Server**
 - Extraigo reportes desde plataformas web para actualizar dashboards
 - Mantengo informes actualizados con **Power BI** sin intervención manual
@@ -41,7 +41,7 @@ Me especializo en construir dashboards, optimizar procesos con Python y mantener
 - 🔄 Automatización FTP + SQL Server  
 - 📥 Descarga automática de reportes desde páginas web
 
-<img src="Data extraction-rafiki.png" width="400"/>
+
 
 ---
 
