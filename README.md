@@ -41,7 +41,7 @@ Me especializo en construir dashboards, optimizar procesos con Python y mantener
 - 🔄 Automatización FTP + SQL Server  
 - 📥 Descarga automática de reportes desde páginas web
 
-<img src="img/Data extraction-rafiki.png" width="400"/>
+<img src="Data extraction-rafiki.png" width="400"/>
 
 ---
 
