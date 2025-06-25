@@ -31,7 +31,7 @@ Me especializo en construir dashboards, optimizar procesos con Python y mantener
 
 ## 📬 ¿Dónde encontrarme?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eder-raul-perez-gallardo-hernández-65343920a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eder-raul-perez-gallardo-hernández-65343920a)
 [![Correo](https://img.shields.io/badge/Correo-electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](raulperezgallardo473@gmail.com)
 
 
